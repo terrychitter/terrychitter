@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **t.sikenaris@gmail.com**
 
-- ⚡ Fun fact **I am always drinking redbull**
+- ⚡ Fun fact **I love cats and redbull**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
