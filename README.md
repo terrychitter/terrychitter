@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **Android Studio and Xamarin**
 
-- 💬 Ask me about **Python, PHP, Web Design**
+- 💬 Ask me about **Python, PHP, Web Design/Development**
 
 - 📫 How to reach me **t.sikenaris@gmail.com**
+
+-  🌎 My website: [https://terrychitter.netlify.app](https://terrychitter.netlify.app)
 
 - ⚡ Fun fact **I love cats and redbull**
 
