@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terrychitter&label=Profile%20views&color=0e75b6&style=flat" alt="terrychitter" /> </p>
 
-- 🌱 I’m currently learning **Android Studio and Xamarin**
+- 🌱 I’m currently learning **Crew AI**
 
 - 💬 Ask me about **Python, PHP, Web Design/Development**
 
