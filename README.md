@@ -6,15 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terrychitter&label=Profile%20views&color=0e75b6&style=flat" alt="terrychitter" /> </p>
 
-- 🌱 I’m currently learning **Crew AI**
+-  🌱 I’m currently learning **Crew AI**
 
-- 💬 Ask me about **Python, PHP, Web Design/Development**
+-  ❓ I am currently seeking assistance for my [Arnette-AI](https://github.com/terrychitter/arnette-ai) repository
 
-- 📫 How to reach me **t.sikenaris@gmail.com**
+-  💬 Ask me about **Python, PHP, Web Design/Development**
+
+-  📫 How to reach me **t.sikenaris@gmail.com**
+
+-  📚 My Stackoverflow profile: [https://stackoverflow.com/users/23959226/terry](https://stackoverflow.com/users/23959226/terry)
 
 -  🌎 My website: [https://terrychitter.netlify.app](https://terrychitter.netlify.app)
 
-- ⚡ Fun fact **I love cats and redbull**
+-  ⚡ Fun fact **I love cats and redbull**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
