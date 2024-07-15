@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terrychitter&label=Profile%20views&color=0e75b6&style=flat" alt="terrychitter" /> </p>
 
--  🌱 I’m currently learning **Crew AI**
+-  🌱 I’m currently learning **ReactJS**
 
 -  ❓ I am currently seeking assistance for my [Arnette-AI](https://github.com/terrychitter/arnette-ai) repository
 
