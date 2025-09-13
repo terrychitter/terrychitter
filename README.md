@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/Sxvi2Xg.png)](https://terrychitter.io)
-<h1 align="center">Hi 👋, I'm Terry Chitter</h1>
+<h1 align="center">Hi 👋, I'm Terry</h1>
 <h3 align="center">I'm a passionate and hardworking developer from South Africa</h3>
 <img align="right" alt="Cat Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
@@ -8,15 +8,11 @@
 
 -  🌱 I’m currently learning **ReactJS**
 
--  ❓ I am currently seeking assistance for my [Arnette-AI](https://github.com/terrychitter/arnette-ai) repository
-
--  💬 Ask me about **Python, PHP, Web Design/Development**
+-  💬 Ask me about **Python, ReactJS, Web Design/Development**
 
 -  📫 How to reach me **t.sikenaris@gmail.com**
 
--  📚 My Stackoverflow profile: [https://stackoverflow.com/users/23959226/terry](https://stackoverflow.com/users/23959226/terry)
-
--  🌎 My website: [https://terrychitter.netlify.app](https://terrychitter.netlify.app)
+-  🌎 My website: [here](https://terrychitter.netlify.app)
 
 -  ⚡ Fun fact **I love cats and redbull**
 
