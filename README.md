@@ -10,8 +10,6 @@
 
 -  💬 Ask me about **Python, ReactJS, Web Design/Development**
 
--  📫 How to reach me **t.sikenaris@gmail.com**
-
 -  🌎 My website: [here](https://terrychitter.netlify.app)
 
 -  ⚡ Fun fact **I love cats and redbull**
